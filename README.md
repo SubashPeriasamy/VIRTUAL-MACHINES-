@@ -1,6 +1,6 @@
 ## EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
 ## Name : SUBASH P
-## Reg No : 212223040169
+## Reg No : 212223060275
 ## Aim:
 To move the files between virtual machine.
 
